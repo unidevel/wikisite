@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwikisite=self.webpackChunkwikisite||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/wikisite/blog","blogTitle":"Blog","authorsListPath":"/wikisite/blog/authors"}')}}]);
