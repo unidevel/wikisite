@@ -1,3 +1,0 @@
-# Documentations
-
-Some gluten documents
